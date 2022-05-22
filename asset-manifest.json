@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/practice/static/css/main.37a8e623.css",
+    "main.js": "/practice/static/js/main.08e566a2.js",
+    "static/media/globe.png": "/practice/static/media/globe.131e14d7c11511ff5ea7.png",
+    "static/media/telephone.png": "/practice/static/media/telephone.747659a5800ce0092492.png",
+    "static/media/edit.png": "/practice/static/media/edit.86339680b5275c15c53d.png",
+    "static/media/heart.png": "/practice/static/media/heart.c412cbaead4744166c20.png",
+    "index.html": "/practice/index.html",
+    "main.37a8e623.css.map": "/practice/static/css/main.37a8e623.css.map",
+    "main.08e566a2.js.map": "/practice/static/js/main.08e566a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a8e623.css",
+    "static/js/main.08e566a2.js"
+  ]
+}
